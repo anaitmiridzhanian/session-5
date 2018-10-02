@@ -1,5 +1,8 @@
-body {
-  position: relative;
+body div h1{
+  color : purple;
+  text-transform: uppercase;
+
+ #header-level-3 {}
 }
 
 #fixed-block {
