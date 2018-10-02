@@ -1,9 +1,16 @@
 body div h1{
   color : purple;
   text-transform: uppercase;
-
- #header-level-3 {}
 }
+
+ #ma-boite {
+ 	width: 250px;
+ 	position: fixed;
+ 	top :30px;
+ 	left :100px;
+}
+
+
 
 #fixed-block {
 }
